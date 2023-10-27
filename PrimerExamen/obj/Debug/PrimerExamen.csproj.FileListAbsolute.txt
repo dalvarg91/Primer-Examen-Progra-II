@@ -1,0 +1,7 @@
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\bin\Debug\PrimerExamen.exe.config
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\bin\Debug\PrimerExamen.exe
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\bin\Debug\PrimerExamen.pdb
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.csproj.AssemblyReference.cache
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.csproj.CoreCompileInputs.cache
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.exe
+C:\Users\David Alvarez\Desktop\PrimerExamen\PrimerExamen\obj\Debug\PrimerExamen.pdb
